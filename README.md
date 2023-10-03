@@ -14,8 +14,8 @@ This project aims to create a client-server application with the following speci
 1. Git and GitHub are used for collaboration and version control.
 2. Follow the GitHub Flow strategy.
 3. Organize the project using GitHub Projects, using the Scrum methodology with a shared Scrum master, weekly sprints, sprint reviews, and sprint planning on Thursdays.
-4. Each team has a Slack channel for communication, linked to the repository.
-5. Follow the Visual Studio C++ style guide.
+4. Used Slack channel for communication, linked to the repository.
+5. Used the Visual Studio C++ style guide.
 
 ## User Interfaces
 
@@ -42,7 +42,7 @@ This project aims to create a client-server application with the following speci
 
 ## Implementation Details
 
-- Multithreading is used for communication protocols to protect shared resources.
+- Used multithreading for communication protocols to protect shared resources.
 - Error handling includes printing error messages on the server terminal and displaying error icons and messages on the client.
 - Temperature and battery level color-coding is implemented.
 - Communication of changes in server-side data to the client is supported.
