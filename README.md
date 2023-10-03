@@ -12,8 +12,8 @@ This project aims to create a client-server application with the following speci
 ## Development and Collaboration
 
 1. Git and GitHub are used for collaboration and version control.
-2. Follow the GitHub Flow strategy.
-3. Organize the project using GitHub Projects, using the Scrum methodology with a shared Scrum master, weekly sprints, sprint reviews, and sprint planning on Thursdays.
+2. Followed the GitHub Flow strategy.
+3. Organized the project using GitHub Projects, using the Scrum methodology with a shared Scrum master, weekly sprints, sprint reviews, and sprint planning on Thursdays.
 4. Used Slack channel for communication, linked to the repository.
 5. Used the Visual Studio C++ style guide.
 
