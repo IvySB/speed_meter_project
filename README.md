@@ -57,7 +57,8 @@ To switch between communication protocols:
 2. In the main.cpp files of the client and server, check if the macro has been defined, then create and use an instance of the chosen   communication protocol implementation class.
 3. Build both the client and server programs.
 4. Upload the PlatformIO projects to the microcontrollers.
-![Uploading greenhouse.jpeg…]()
+
+[Uploading greenhouse.jpeg…]()
 
 https://github.com/IvySB/speed_meter_project/assets/103001751/872a5f79-9db8-4d1a-be1e-d3d858b8fb01
 
