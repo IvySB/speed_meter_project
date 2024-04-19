@@ -8,6 +8,7 @@ This project aims to create a client-server application with the following speci
 2. The maximum speed supported is 240 km/h.
 3. Temperature is in the range of -60°C to 60°C.
 4. Battery level is represented in percentage.
+5. ESP32 microcontroller.
 
 ## Development and Collaboration
 
